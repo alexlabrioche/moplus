@@ -7,6 +7,7 @@
   - 🎣 Hooks 
   - 🧺 Context
   - 📎 Spring
+  - 🍩 GrommetV2 (React Design System)
   
   
 The data source is an auto generated JSON from a 210.000 french words list.  
