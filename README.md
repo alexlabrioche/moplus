@@ -1,6 +1,6 @@
-<p align="center">
-    <h1>📓 Mo Mo Mo MOPLUS! 📓</h1>    
-</p>
+<h1 align="center">
+    📓 Mo Mo Mo MOPLUS! 📓   
+</h1>
     
 #### FRONT-END REACT PROJECT
   
